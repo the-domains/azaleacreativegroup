@@ -1,0 +1,28 @@
+name: AzaleaCreativeGroup
+favicon: null
+layout_spectrum: 0.8262813149485737
+typography_spectrum: 0.9145120331086218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7525495202280581
+  lightness: 0.6959662991575897
+  saturation: 0.24629056104458869
+  rhythmicContrast: 0.5631767639424652
+purpose: []
